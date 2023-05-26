@@ -1,0 +1,51 @@
+* {
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(43, 43, 43);
+}
+
+.header,
+.footer {
+    background-color: rgb(20, 20, 20);
+    height: 10vh;
+}
+
+/* .content {
+    
+} */
+
+h1 {
+    padding-top: 20px;
+    font-family: "Kelvinch";
+    text-align: center;
+}
+
+p {
+    font-family: "Kelvinch";
+    text-align: center;
+    font-size: 20px;
+}
+
+.frstimg {
+    height: 300px;
+    width: 600px;
+    padding-top: 10px;
+    margin-left: 600px;
+}
+.content2{
+    background-color: rgb(30, 30, 30);;
+}
+
+/* ::-moz-selection { Code for Firefox 
+    color: red;
+    background: yellow;
+  }
+  
+  ::selection {
+    color: red;
+    background: yellow;
+  }*/
